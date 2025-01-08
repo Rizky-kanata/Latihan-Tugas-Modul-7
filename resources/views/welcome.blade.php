@@ -18,7 +18,7 @@
         <img class="img-thumbnail" src="{{ Vite::asset('resources/images/laravel.png') }}" alt="image">
         <div class="col-md-2 offset-md-5 mt-4">
             <div class="d-grid gap-2">
-                <a class="btn btn-dark" href="{{ route('home') }}">Home</a>
+                <a class="btn btn-dark" href="{{ route('home') }}">tugas modul 7</a>
             </div>
         </div>
     </div>
